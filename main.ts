@@ -37,3 +37,4 @@ scene.cameraFollowSprite(mySprite)
 mySprite.ay += 0
 tiles.setCurrentTilemap(tilemap`level1`)
 music.play(music.stringPlayable("C5 B A B A G E C ", 120), music.PlaybackMode.UntilDone)
+info.setScore(0)
